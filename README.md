@@ -1,28 +1,57 @@
-# 💫 About Me:
-👋 Hello there! I’m a passionate Full-Stack Developer 👨‍💻 with a strong foundation in both front-end and back-end technologies. I love building dynamic, scalable, and efficient applications that solve real-world problems. 💡<br><br>💻 Technologies I work with:<br><br>Back-End: PHP ⚙️, SQL 💾, Java ☕, C++ 🖥️<br>Front-End: HTML 🎨, CSS 🖌️, JavaScript ⚡ <br>Databases: MySQL 🗄️<br>Tools & Frameworks: React ⚛️, Tailwind ,Laravel <br>🔧 What I enjoy doing:<br><br>Building RESTful APIs and working with databases to design efficient and optimized schemas 🔄<br>Crafting responsive, user-friendly front-end interfaces 🖥️<br>Leveraging my C++ and Java skills for performance-critical applications 🚀<br>Continuously learning new tools, languages, and frameworks 📚 to keep my skill set sharp 🔪<br>🌱 Currently learning: Exploring new front-end frameworks .<br><br>🚀 Let’s collaborate: Feel free to reach out if you’re looking for a developer to work on exciting projects or just want to chat about tech! 💬
+💫 About Me
 
+👋 Hi, I’m Anthony Maxmillan — a Software Engineering student and Full-Stack Developer passionate about building scalable, real-world solutions.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anthony-maxmillan-9bbb722b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+I specialize in designing and developing modern web applications with strong backend architecture and clean, responsive frontends. My goal is to build impactful systems — especially solutions that solve real problems in Africa using technology and AI.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BradleyMaxmillan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BradleyMaxmillan&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BradleyMaxmillan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+🚀 What I Do
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BradleyMaxmillan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🔹 Build full-stack web applications from scratch
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🔹 Design and develop RESTful APIs
 
----
-[![](https://visitcount.itsvg.in/api?id=BradleyMaxmillan&icon=0&color=0)](https://visitcount.itsvg.in)
+🔹 Structure and optimize relational databases
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-BradleyMaxmillan/BradleyMaxmillan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Create responsive, user-friendly interfaces
+
+🔹 Develop scalable backend systems
+
+🔹 Continuously learn and implement modern technologies
+
+💻 Tech Stack
+🖥️ Frontend
+
+HTML • CSS • JavaScript • React • Tailwind CSS • Bootstrap
+
+⚙️ Backend
+
+PHP • Laravel • Node.js • Java • C++
+
+🗄️ Databases
+
+MySQL • MongoDB • SQL
+
+🛠 Tools
+
+Git • GitHub • Postman • Apache
+
+🌱 Currently Growing In
+
+Backend system architecture
+
+API security & performance optimization
+
+AI & Machine Learning foundations
+
+Cloud & scalable deployments
+
+🎯 My Vision
+
+To become a world-class software engineer building intelligent systems that create economic and technological impact across Africa.
+
+🌐 Connect With Me
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/anthony-maxmillan-9bbb722b2/
+
+💬 I’m open to collaboration, internships, open-source contributions, and innovative startup ideas.
